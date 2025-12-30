@@ -1,2 +1,5 @@
 just a text
+<<<<<<< HEAD
 one line
+=======
+>>>>>>> c9154d4face0fffff96ebd9c2ee8ceda8f4c99d4
