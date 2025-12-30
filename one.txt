@@ -1,2 +1,2 @@
 just a text
-line added
+line added at staging
